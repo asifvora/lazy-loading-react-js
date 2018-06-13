@@ -31,7 +31,7 @@ $ npm start
 
 ## View Demo
 
-[Demo](https://serene-saha-d894e0.netlify.com/)
+[Demo](https://angry-rosalind-c25ac6.netlify.com/)
 
 ## Questions?🤔 
   
