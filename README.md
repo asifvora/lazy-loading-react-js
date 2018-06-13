@@ -31,7 +31,7 @@ $ npm start
 
 ## View Demo
 
-[Demo](https://angry-rosalind-c25ac6.netlify.com/)
+[Demo](https://lazy-loading-react-js.netlify.com/)
 
 ## Questions?🤔 
   
