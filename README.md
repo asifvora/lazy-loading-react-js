@@ -1,6 +1,7 @@
 # React With Lazy loading
 How to add lazy loading in react apps using react loadable.
 
+# Preview
 ![lazy loading](https://raw.githubusercontent.com/asifvora/lazy-loading-react-js/master/lazy2.gif)
 
 ## Getting Started
